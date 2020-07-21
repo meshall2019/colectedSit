@@ -1,0 +1,29 @@
+body{
+
+    background-color:rgba(120, 131, 121, 0.425);
+}
+#sel{
+
+text-align: center;
+padding-top: 0.5%;
+padding-left: 0.5%;
+padding-bottom: 0.5%;
+background-color: rgb(194, 180, 180);
+transform: translate(75%,500%);
+width: 500px;
+font-size: 17px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+#but{
+
+    width: 55px;
+    height: 25px;
+    transform: translate(150%,150%);
+    border: solid rgb(214, 226, 226);
+    cursor:pointer;
+    font-size: 15px;
+    border-radius: 50%;
+    box-shadow: rgb(90, 173, 211) 2px 2px;
+}
+
